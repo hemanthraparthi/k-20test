@@ -1,0 +1,17 @@
+{
+  "name": "test-nodeappp",
+  "version": "1.0.0",
+  "description": "A test HTTP server using Node JS",
+  "main": "app.js",
+  "scripts": {
+    "test": "node test.js",
+    "start": "node main.js"
+  },
+  "keywords": [
+    "node",
+    "docker",
+    "dockerfile"
+  ],
+  "author": "hemanthraparthi03@gmail.com",
+  "devDependencies": { "test": ">=0.6.0" }
+}
